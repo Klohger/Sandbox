@@ -1,0 +1,3 @@
+[submodule "PlayMotor"]
+	path = PlayMotor
+	url = https://github.com/Klohger/PlayMotor.git
