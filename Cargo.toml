@@ -10,3 +10,4 @@ playmotor = { path = "PlayMotor" }
 cgmath = "*"
 glium = "*"
 rodio = "*"
+image = "*"
